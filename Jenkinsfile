@@ -8,7 +8,7 @@ pipeline{
            steps {
                script {
 
-                   sh 'echo "Welcome to CI world"'
+                   sh 'echo "Welcome to CI world of Technology"'
 
                }
            }
